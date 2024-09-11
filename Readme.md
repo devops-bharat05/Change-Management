@@ -16,5 +16,7 @@
 14. What is the difference between Emergency Change Requests and Instantaneous change request?
 15. What is the change matrix you followed ?
 16. You have change to be implemented as ECR to fix the bug or provide workaround that caused P1 incident in your origination. What be your role as Change Manager?
-    
+17. How you will decide the implementation time for any changes?
+
+
 These questions are designed to gauge your expertise in change management, your ability to handle challenges, and your communication and leadership skills. Be prepared to provide specific examples from your past experiences to support your answers.
