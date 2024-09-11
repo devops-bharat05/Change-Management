@@ -10,5 +10,11 @@
 8. Describe your approach to training and development during a change initiative.
 9. How do you measure the success of a change management project, and what key performance indicators (KPIs) do you use?
 10. Can you explain the role of a change manager in cross-functional teams and working with different departments?
-
+11. How the changes are implemented in Symphony Summit AI Tools?
+12. What is the process to be followed in CAB call?
+13. What are the types of change request you get in your orgainisation?
+14. What is the difference between Emergency Change Requests and Instantaneous change request?
+15. What is the change matrix you followed ?
+16. You have change to be implemented as ECR to fix the bug or provide workaround that caused P1 incident in your origination. What be your role as Change Manager?
+    
 These questions are designed to gauge your expertise in change management, your ability to handle challenges, and your communication and leadership skills. Be prepared to provide specific examples from your past experiences to support your answers.
